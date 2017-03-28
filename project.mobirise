@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "joshsabey.html",
     "name": "BOLDRUSH",
     "theme": {
       "name": "mobirise3",
@@ -22,10 +22,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/boldrush-ca-logo-transparent-bg-w-white-128x128.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -168,7 +169,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "COLLABORATION IS GREATER THAN THE SUM OF OUR INDIVIDUAL SUCCESSES.",
+          "title": "CLIENTS CLOSER TO CREATIVES.",
           "text": "We are a collective of veteran viral media creators and Emmy® Award winning producers uniting to create your next commercial or motion picture production.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features1-2o\" data-toolbar=\"-mbrBtnMove\">MEET US</a> "
         },
@@ -207,8 +208,8 @@
           "_anchor": "features7-1",
           "_params": {
             "iconsBgColor": "#000000",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -372,6 +373,69 @@
           "_name": "gallery3",
           "_params": {
             "paddingTop": "4",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fkJy0Z2P_1k",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-28-13-58-56.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/182958428",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-28-13-59-43.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/209622536",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-28-14-00-29.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/YYPAGC2m2lc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-03-28-14-00-03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "4",
             "images": [
               {
@@ -682,7 +746,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/sliderp1-2000x997.png",
+                "image": "@PROJECT_PATH@/assets/images/sliderp1-1-2000x997.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -697,7 +761,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/sliderp2-1-2000x997.png",
+                "image": "@PROJECT_PATH@/assets/images/sliderp2-2000x997.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -723,7 +787,7 @@
               "color": "#fff"
             },
             ".mbr-section-title U": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -745,7 +809,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1083,7 +1147,7 @@
             }
           },
           "title1": "<u>JUSTIN JENSEN</u>",
-          "subtitle1": "Sound Designer",
+          "subtitle1": "Music Producer",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1806,7 +1870,7 @@
           },
           "title": "TEL STEWART",
           "text": "Tel's video production work has yielded over 1.3 billion views across both YouTube and Facebook. He has worked in the field of cinematography for over 15 years and in the past 6 years,  he's come to specialize in digital launch strategy for Facebook and YouTube. His breakout success came from launching a YouTube channel with the now world-renowned musical artists The Piano Guys. He created the style and pacing of every single one of their videos and garnered over for over 4 million subscribers in just 2 1/2 years. He also served as a chief editor for the viral launch video of Poo~Pourri, bringing their vision to life with help from the Harmon brothers. Tel's strategic partnerships with YouTube heavy hitters such as Derral Eves, Devon Supertramp, Lindsey Stirling, Stuart edge, What's Inside?, and many others, has yielded over 20 million subscribers combined. Tel combines his talent for creating amazing, cinematic video with savvy digital launch strategies to help clients' messages catch fire.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"telstewart.html#gallery4-u\" data-toolbar=\"-mbrBtnMove\">REEL</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"telstewart.html#msg-box4-2r\" data-toolbar=\"-mbrBtnMove\">REEL</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1843,7 +1907,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=jwN2AFCDLcE",
+              "src": "https://www.youtube.com/watch?v=jRtBxVTnKb8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2055,7 +2119,7 @@
           },
           "title": "SPENCER SULLIVAN",
           "text": "As the owner and video producer of SS Productions, Spencer Sullivan has gained well-rounded experience in production planning, storyboarding, shooting, and editing. Some of his accomplishments include his feature length award winning documentary Pieces of the Soul, LDS Film Festival trailer award, and working with Youtube sensations ThePianoGuys, and William Joseph. Spencer received his Bachelors’ Degree in Digital Motion Picture Production from Dixie State University in 2012. His passion especially lies with outdoor/adventure video and photography, as well as inspirational documentary storytelling.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"spencersullivan.html#gallery4-u\" data-toolbar=\"-mbrBtnMove\">REEL</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"spencersullivan.html#msg-box4-2s\" data-toolbar=\"-mbrBtnMove\">REEL</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -2092,7 +2156,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=jwN2AFCDLcE",
+              "src": "https://www.youtube.com/watch?v=jRtBxVTnKb8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3123,7 +3187,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "media": {
@@ -3150,7 +3214,7 @@
           },
           "title": "MICAH SALBERG",
           "text": "Micah Salberg specializes in mixing/mastering audio in a wide variety of settings from video set productions to live stage performances. He also plays several instruments and has written original scores for film. He served six and a half honorable years of service in the US Army as a combat medic with a 15-month tour to Afghanistan. During his tenure in the army, Micah co-founded a monthly jazz/open mic event that was designed to increase awareness of the local music and art community. He subsequently served one year in an Americorps program as a Musiciancorps Artist promoting music for public benefit.<br><br>Micah graduated from the Berklee College of Music Online's Master Certification program in Music Production and Technology with a 3.945 GPA where he gained hands-on experience with the latest audio programs and technology as well as cameras and camera equipment. He is currently studying Recording Arts at the Los Angeles Film School. Micah's greatest passion lies spreading his love for music and performance. He is fascinated with the art of telling a story through film/music; and he loves working with sound and film equipment to create a visceral experience for the viewer.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.donnasalberg.com\" data-toolbar=\"-mbrBtnMove\">DONNA SALBERG PHOTOGRAPHY</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.micahsalberg.com\" data-toolbar=\"-mbrBtnMove\">MICAH SALBERG PORTFOLIO</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -3746,7 +3810,7 @@
             }
           },
           "title": "JOSH SABEY",
-          "text": "Josh Sabey bio.",
+          "text": "Josh Sabey has had valuable experience at every stage of production from planning and scripting to filming and editing in his work as writer and director for Parents-to-Parents.org, an NPO dedicated to creating world class documentaries about mental illness. Their first documentary was purchased by Psychotherapy.net and has been distributed internationally. It has been screened at several universities across the nation including Stanford and UCSD. Going Sane, his next documentary premieres early in 2017. Currently he creates written and video content for firms across the Raleigh Durham Triangle.<br><br>His success comes from his ability to make the most of what he has: if he needs something more he will find a way to get it, if not then he’ll live without. At his core, Josh will always be a writer who simply wants to tell a beautiful story.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.donnasalberg.com\" data-toolbar=\"-mbrBtnMove\">DONNA SALBERG PHOTOGRAPHY</a>"
         },
         {
